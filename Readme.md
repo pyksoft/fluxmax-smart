@@ -1,7 +1,3 @@
-An example using [fluxmax](https://github.com/hackhat/fluxmax) and [smart-css](https://github.com/hackhat/smart-css), see **[live example](https://cdn.rawgit.com/hackhat/fluxmax-smart-css/v0.0.1/dist/index.html)** (with source maps).
-
-
-
 ## Final product gif
 
 <p align="center">
